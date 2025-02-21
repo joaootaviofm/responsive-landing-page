@@ -10,7 +10,7 @@ export default function Navbar(){
             </div>
             <ul className="hidden font-bold md:flex px-5 py-3 gap-10  rounded-lg">
                 <li>
-                    <a href="#" className="hover:text-white duration-500 flex transition ease-in-out hover:bg-white/20 hover:border-white/20 border border-transparent rounded-md p-4">Product</a>
+                    <a href="#" className="hover:text-white duration-500 flex transition ease-in-out hover:bg-white/20 hover:border-white/20 border border-transparent rounded-md p-4">Home</a>
                 </li>
                 <li>
                     <a href="#" className="hover:text-white flex items-center gap-1 transition duration-500 ease-in-out hover:bg-white/20 hover:border-white/20 border border-transparent rounded-md p-4">
@@ -22,7 +22,7 @@ export default function Navbar(){
                     <a href="#" className="hover:text-white flex transition duration-500 ease-in-out hover:bg-white/20 hover:border-white/20 border border-transparent rounded-md p-4">About</a>
                 </li>
                 <li>
-                    <a href="#" className="hover:text-white flex transition duration-500 ease-in-out hover:bg-white/20 hover:border-white/20 border border-transparent rounded-md p-4">Resources</a>
+                    <a href="#" className="hover:text-white flex transition duration-500 ease-in-out hover:bg-white/20 hover:border-white/20 border border-transparent rounded-md p-4">Pricing</a>
                 </li>
             </ul>
             <div className="hidden lg:flex">
